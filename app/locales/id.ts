@@ -151,12 +151,12 @@ const id: PartialLocaleType = {
     },
 
     Update: {
-      Version: (x: string) => `Version: ${x}`,
-      IsLatest: "Versi terbaru",
-      CheckUpdate: "Periksa Pembaruan",
-      IsChecking: "Memeriksa pembaruan...",
-      FoundUpdate: (x: string) => `Versi terbaru ditemukan: ${x}`,
-      GoToUpdate: "Perbarui Sekarang",
+      Version: (x: string) => ``,
+      IsLatest: "",
+      CheckUpdate: "",
+      IsChecking: "",
+      FoundUpdate: (x: string) => ``,
+      GoToUpdate: "",
     },
     AutoGenerateTitle: {
       Title: "Hasilkan Judul Otomatis",
