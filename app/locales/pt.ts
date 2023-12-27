@@ -163,12 +163,12 @@ const pt: PartialLocaleType = {
     },
 
     Update: {
-      Version: (x: string) => `Versão: ${x}`,
-      IsLatest: "Última versão",
-      CheckUpdate: "Verificar Atualização",
-      IsChecking: "Verificando atualização...",
-      FoundUpdate: (x: string) => `Nova versão encontrada: ${x}`,
-      GoToUpdate: "Atualizar",
+      Version: (x: string) => ``,
+      IsLatest: "",
+      CheckUpdate: "",
+      IsChecking: "",
+      FoundUpdate: (x: string) => ``,
+      GoToUpdate: "",
     },
     SendKey: "Tecla de Envio",
     Theme: "Tema",
