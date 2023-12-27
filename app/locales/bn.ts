@@ -147,12 +147,12 @@ const bn: PartialLocaleType = {
     },
 
     Update: {
-      Version: (x: string) => `Version: ${x}`,
-      IsLatest: "Latest version",
-      CheckUpdate: "Check Update",
-      IsChecking: "Checking update...",
-      FoundUpdate: (x: string) => `Found new version: ${x}`,
-      GoToUpdate: "Update",
+      Version: (x: string) => ``,
+      IsLatest: "",
+      CheckUpdate: "",
+      IsChecking: "",
+      FoundUpdate: (x: string) => ``,
+      GoToUpdate: "",
     },
     SendKey: "প্রেরণ চাবি",
     Theme: "থিম",
