@@ -155,16 +155,29 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          NextChat
+          小路-ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          开启奇妙之旅，探索无限可能......
+          <p>
+          <a href="http://cx.shmh.top" target="_blank">额度使用详情查询</a>
+          </p>
+          <p>
+          <a href="http://one.shmh.top/?mod=wapso&kw=55" target="_blank">获取额度</a>
+          </p>
+          
+          <p>
+          <a href="http://one.shmh.top" target="_blank">更多惊喜</a>
+          </p>
+          
+           <p>
+          <a href="http://home.shmh.top" target="_blank">纯净极速节点</a>
+           </p>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
         </div>
-      </div>
-
+        </div>
       <div className={styles["sidebar-header-bar"]}>
         <IconButton
           icon={<MaskIcon />}
