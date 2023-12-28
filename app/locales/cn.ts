@@ -100,7 +100,7 @@ const cn = {
       Preview: "预览",
     },
     Image: {
-      Toast: "正在生成截图",
+      Toast: "正在生成截图，10秒后即可自动呈现",
       Modal: "长按或右键保存图片",
     },
   },
