@@ -160,7 +160,7 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-sub-title"]}>
           开启奇妙之旅，探索无限可能......
           <p>
-          <a href="http://cx.shmh.top" target="_blank">额度使用详情查询</a>
+          <a href="http://cx.mutig.buzz" target="_blank">额度使用详情查询</a>
           </p>
           <p>
           <a href="http://one.shmh.top/?mod=wapso&kw=55" target="_blank">获取额度</a>
