@@ -160,18 +160,18 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-sub-title"]}>
           开启奇妙之旅，探索无限可能......
           <p>
-          <a href="http://cx.mutig.buzz" target="_blank">额度使用详情查询</a>
+          <a href="http://cx.mutig.buzz" target="_blank">额度剩余量查询</a>
           </p>
           <p>
-          <a href="http://one.shmh.top/?mod=wapso&kw=55" target="_blank">获取额度</a>
+          <a href="http://28.main.mutig.buzz/?cid=56" target="_blank">充值额度</a>
           </p>
           
           <p>
-          <a href="http://one.shmh.top" target="_blank">更多惊喜</a>
+          <a href="http://28.main.mutig.buzz" target="_blank">更多惊喜</a>
           </p>
           
            <p>
-          <a href="http://home.shmh.top" target="_blank">纯净极速节点</a>
+          <a href="http://28.main.mutig.buzz/?cid=75" target="_blank">极速节点</a>
            </p>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
